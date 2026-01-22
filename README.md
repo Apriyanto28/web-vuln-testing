@@ -114,20 +114,6 @@ Gunakan akun berikut untuk login:
 
 ---
 
-## 📁 Struktur Folder
-
-```text
-web-vuln-testing/
-├─ assets/
-├─ database/
-│  └─ vulnshop.sql
-├─ db.php
-├─ index.php
-└─ README.md
-```
-
----
-
 ## 🧪 Catatan Pembelajaran
 
 Beberapa hal yang bisa dipelajari dari project ini:
@@ -138,16 +124,6 @@ Beberapa hal yang bisa dipelajari dari project ini:
 * Error handling & informasi sensitif
 
 ⚠️ **Selalu lakukan pengujian secara etis dan legal.**
-
----
-
-## 🖼️ Screenshot (Opsional)
-
-Tambahkan screenshot agar repository terlihat lebih profesional:
-
-```md
-![Preview](docs/screenshot.png)
-```
 
 ---
 

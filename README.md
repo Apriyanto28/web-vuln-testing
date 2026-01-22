@@ -42,7 +42,7 @@ Pastikan sudah terinstall di sistem kamu:
 
 ### 1️⃣ Download / Clone Repository
 ```bash
-git clone https://github.com/username/web-vuln-testing.git
+git clone https://github.com/Apriyanto28/web-vuln-testing.git
 cd web-vuln-testing
 ````
 

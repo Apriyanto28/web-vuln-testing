@@ -1,0 +1,38 @@
+/* theme.css */
+:root{
+  --brand-grad: linear-gradient(135deg,#5B8CFF 0%, #7AE1FF 100%);
+}
+
+body{
+  background: #f7f9fc;
+}
+
+.hero {
+  background: var(--brand-grad);
+  color: #fff;
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+}
+
+.card-v {
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,.06);
+}
+
+.product-card .card-title{
+  min-height: 2.6rem;
+}
+
+.badge-soft {
+  background: rgba(255,255,255,.35);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,.6);
+}
+
+.table thead th{
+  background:#eef3ff;
+}
+
+/* aksen kecil supaya konsisten */
+.badge-soft { background: rgba(255,255,255,.35); color:#fff; border:1px solid rgba(255,255,255,.6); }
